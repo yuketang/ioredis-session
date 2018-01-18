@@ -1,0 +1,26 @@
+{
+  "name": "ioredis-session",
+  "version": "1.0.0",
+  "description": "Warn: For internal use only!!! Rain-classroom ioredis-session only offers checkSession and dedroySession",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuketang/ioredis-session.git"
+  },
+  "keywords": [
+    "ioredis",
+    "session"
+  ],
+  "author": "mahui@xuetangx.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuketang/ioredis-session/issues"
+  },
+  "homepage": "https://github.com/yuketang/ioredis-session#readme"
+}

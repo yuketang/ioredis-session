@@ -1,0 +1,8 @@
+node_modules
+logs/*
+dist/*
+server/config/env/important.js
+static/asset/*
+.git
+.idea
+
