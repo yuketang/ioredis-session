@@ -1,7 +1,7 @@
 {
   "name": "ioredis-session",
   "version": "1.0.0",
-  "description": "Warn: For internal use only!!! Rain-classroom ioredis-session only offers checkSession and dedroySession",
+  "description": "Warning: For internal use only!!! Rain-classroom ioredis-session only offers checkSession and dedroySession",
   "main": "index.js",
   "directories": {
     "lib": "lib"
